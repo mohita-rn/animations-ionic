@@ -1,0 +1,7 @@
+{
+  "name": "animIonic",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
